@@ -1,3 +1,10 @@
-# $ pip install jupyter-notebook
+# install libraries
+## $ pip install jupyter-notebook
+## $ pip install pandas
+## $ pip install numpy
+## $ pip install scikit-learn
+## $ pip install matplotlib
 
-# $ jupyer notebook
+
+# Run
+## $ jupyer notebook
