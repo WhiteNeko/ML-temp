@@ -1,5 +1,6 @@
 # install libraries
-## $ pip install jupyter-notebook
+## $ pip install jupyterlab
+## $ pip install notebook
 ## $ pip install pandas
 ## $ pip install numpy
 ## $ pip install scikit-learn
